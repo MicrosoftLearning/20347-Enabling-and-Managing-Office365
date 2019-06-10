@@ -27,4 +27,4 @@ What about changes to the student handbook?
 
 **Note:** The lab files on GitHub are intended for MCT use only. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
 
-Refer to the 20347AGitHubUserGuideforMCTs.pdf file on the Download Center for detailed instructions for using GitHub. This document is also available on the GitHub repo as 20347AGitHubUserGuideforMCTs.md.  
+Refer to the 20347BGitHubUserGuideforMCTs.pdf file on the Download Center for detailed instructions for using GitHub. This document is also available on the GitHub repo as 20347BGitHubUserGuideforMCTs.md.  
